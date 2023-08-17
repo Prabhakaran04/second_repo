@@ -16,3 +16,8 @@ print('Table generated')
 # for i in num1:
 #     for j in i:
 #         print(j)
+
+# num1=['name','age',['gender','job'],'salary']
+# for i in num1:
+#     for j in i:
+#         print(j)
